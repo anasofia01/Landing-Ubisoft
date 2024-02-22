@@ -1,0 +1,22 @@
+img {
+	width: 336px;
+	height: 189px;
+}
+
+figure {
+	display: flex;
+}
+
+div {
+	margin-left: 32px;
+}
+
+h3 {
+	font-family: Ubisoft Sans Bold, sans-serif;
+	font-size: 20px;
+}
+
+span {
+	font-family: Ubisoft Sans, sans-serif;
+	font-size: 12px;
+}

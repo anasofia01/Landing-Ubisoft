@@ -1,0 +1,13 @@
+h2 {
+	font-family: Ubisoft Sans Bold, sans-serif;
+	font-size: 28px;
+	padding: 20px 0;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+div {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 15px;
+}

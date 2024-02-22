@@ -1,9 +1,7 @@
 import * as components from './components/index.js';
 
-//<card-news></card-news>
 //<card-store></card-store>
 //<card-videos></card-videos>
-//
 
 class LandingPage extends HTMLElement {
 	constructor() {
@@ -18,6 +16,7 @@ class LandingPage extends HTMLElement {
 	render() {
 		this.shadowRoot.innerHTML = `
     <card-games></card-games>
+    <card-news></card-news>
     `;
 	}
 }
