@@ -10,7 +10,7 @@ class CardNews extends HTMLElement {
 
 	render() {
 		this.shadowRoot.innerHTML = `
-    <link rel = "stylesheet" href = "./src/components/CardNews/CardNews.css">
+    <link rel = "stylesheet" href = "./src/components/CardNews/cardNews.css">
     <section>
     <h2>Últimas Noticias</h2>
     <div>
