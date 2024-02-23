@@ -22,9 +22,7 @@ class SingleCardStore extends HTMLElement {
     <link rel = "stylesheet" href = "./src/components/singleCardStore/singleCardStore.css">
     <figure>
     <img src = "${this.img}"></img>
-    <div>
     <h3>${this.text}</h3>
-    </div>
     </figure>
     `;
 	}

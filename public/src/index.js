@@ -1,6 +1,5 @@
 import * as components from './components/index.js';
 
-//<card-videos></card-videos>
 //<banner></banner>
 
 class LandingPage extends HTMLElement {
@@ -18,6 +17,7 @@ class LandingPage extends HTMLElement {
     <card-games></card-games>
     <card-news></card-news>
     <card-store></card-store>
+    <card-videos></card-videos>
     `;
 	}
 }

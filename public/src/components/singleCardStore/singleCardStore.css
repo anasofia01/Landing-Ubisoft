@@ -6,17 +6,13 @@ img {
 figure {
 	display: flex;
 	margin: 0 18px;
-}
-
-div {
-	width: 456px;
-	height: 217px;
-	position: absolute;
-	color: white;
+	position: relative;
 }
 
 h3 {
 	font-family: Ubisoft Sans Bold, sans-serif;
 	font-size: 22px;
 	text-align: center;
+	position: absolute;
+	color: white;
 }
