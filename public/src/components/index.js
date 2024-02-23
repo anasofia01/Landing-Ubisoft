@@ -6,3 +6,4 @@ export { default as cardStore } from './cardStore/cardStore.js';
 export { default as singleCardStore } from './singleCardStore/singleCardStore.js';
 export { default as cardVideos } from './cardVideos/cardVideos.js';
 export { default as singleCardVideo } from './singleCardVideo/singleCardVideo.js';
+export { default as banner } from './banner/banner.js';
